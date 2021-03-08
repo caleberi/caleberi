@@ -6,7 +6,8 @@
     <img align="left" alt="Caleb's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
 <br />
-Hi, I am Adewole Caleb Erioluwa , a very passionate self-taught software engineer from Nigeria. My passion for software goes beyond building system but understanding how they work , improving performance , testing for defect/bugs  amongst other. 
+<br/>
+Hi,I am Adewole Caleb Erioluwa , a very passionate self-taught software engineer from Nigeria. My passion for software goes beyond building system but understanding how they work , improving performance , testing for defect/bugs  amongst other. 
 I am currently looking forward to contributing to open source project, and also learning a lot through open source.
   
 - 💬 Ask me about anything, I am happy to help;
