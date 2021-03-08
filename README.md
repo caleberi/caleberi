@@ -8,8 +8,6 @@
 <br />
 Hi, I am Adewole Caleb Erioluwa , a very passionate self-taught software engineer from Nigeria. My passion for software goes beyond building system but understanding how they work , improving performance , testing for defect/bugs  amongst other. 
 I am currently looking forward to contributing to open source project, and also learning a lot through open source.
-
- <img align="right" alt="GIF" src="" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [caleb adewole](https://www.linkedin.com/in/caleb-adewole-b6236a163/);
