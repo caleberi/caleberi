@@ -32,7 +32,7 @@ I am currently looking forward to contributing to open source project, and also 
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=caleberi&show_icons=true&theme=gotham" alt="caleberi" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=caleberi&show_icons=true&theme=onedark" alt="caleberi" />
   
 - 🌱 I’m currently learning  flutter , react
 - 👯 I’m looking to collaborate on  cpp,python,dart,javascript projects .
