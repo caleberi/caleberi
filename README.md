@@ -11,7 +11,7 @@ I am currently looking forward to contributing to open source project, and also 
 - 📝 [Resume](https://drive.google.com/file/d/1vT8nj-DVIEPLLuXyZX9p6PX3USMrklpB/view?usp=sharing)
 
 **Languages and Tools:**  
-
+---
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -28,10 +28,12 @@ I am currently looking forward to contributing to open source project, and also 
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="40" height="50"/></code>
 
 
-## &#x1f4c8; My GitHub Stats
+**My GitHub Stats** 
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caleberi&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=caleberi&show_icons=true&theme=onedark" alt="caleberi" />
-  
+
+[![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=caleberi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 - 🌱 I’m currently learning  flutter , react
 - 👯 I’m looking to collaborate on  cpp,python,dart,javascript projects .
 - 💬 Ask me about ...
