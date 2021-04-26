@@ -2,7 +2,7 @@
 ![Twitter URL](https://img.shields.io/twitter/url?label=twitter&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FHebronace143)
 ![LinkedIn URL](https://img.shields.io/twitter/url?label=linkedin&logo=Linkedin&style=social&url=https%3A%2F%2Ftwitter.com%2FHebronace143)
 <br/>
-A Self-taught software engineer from Nigeria specialized in Node backend related projects  and my spare time , playing guitar and singing . <br/>
+A Self-taught software engineer from Nigeria specialized in Node backend related projects  and my spare time , playing guitar and singing.<br/>
 My passion for software goes beyond building system but understanding how they work , improving performance , testing for defect/bugs  amongst other. <br/>
 I am currently looking forward to contributing to open source project, and also learning a lot through open source.
   
@@ -26,9 +26,9 @@ I am currently looking forward to contributing to open source project, and also 
 <code><img height="40"
  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 
-📈 My GitHub Stats
+**📈 My GitHub Stats**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=caleberi&show_icons=true&theme=onedark" alt="caleberi" />
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=caleberi&show_icons=true&theme=onedark" alt="caleberi" />
   
 - 🌱 I’m currently learning  flutter , react
 - 👯 I’m looking to collaborate on  cpp,python,dart,javascript projects .
