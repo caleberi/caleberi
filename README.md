@@ -1,12 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>, I am Adewole Caleb Erioluwa!
-  <br/>
-  <a href="https://www.linkedin.com/in/caleb-adewole-b6236a163/">
-    <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=twitter&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FHebronace143">
-    <a/>
-  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=LinkedIn&logo=Linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcaleb-adewole-b6236a163%2F">
-  </a>
-<br />
-<br/> 
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=twitter&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FHebronace143">
+<img alt="Linkedin URL" src="https://img.shields.io/twitter/url?label=LinkedIn&logo=Linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcaleb-adewole-b6236a163%2F">
 A very passionate self-taught software engineer from Nigeria. My passion for software goes beyond building system but understanding how they work , improving performance , testing for defect/bugs  amongst other. 
 I am currently looking forward to contributing to open source project, and also learning a lot through open source.
   
