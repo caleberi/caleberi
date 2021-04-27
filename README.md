@@ -31,7 +31,7 @@ I am currently looking forward to contributing to open source project, and also 
 
 **My GitHub Stats** 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caleberi&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)[![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=caleberi&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caleberi&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 - 🌱 I’m currently learning  flutter , react
