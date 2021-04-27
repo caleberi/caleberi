@@ -2,6 +2,7 @@
 ![Twitter URL](https://img.shields.io/twitter/url?label=twitter&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FHebronace143)
 ![LinkedIn URL](https://img.shields.io/twitter/url?label=linkedin&logo=Linkedin&style=social&url=https%3A%2F%2Ftwitter.com%2FHebronace143)
 <br/>
+<br/>
 A Self-taught software engineer from Nigeria specialized in Node backend related projects  and my spare time , playing guitar and singing.<br/>
 My passion for software goes beyond building system but understanding how they work , improving performance , testing for defect/bugs  amongst other. <br/>
 I am currently looking forward to contributing to open source project, and also learning a lot through open source.
