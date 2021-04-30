@@ -18,7 +18,7 @@ Skills: Cpp,JavaScript,Nodejs,Python,Dart.
 - 🔭 I’m currently working on extensive node and javascript project
 - 🌱 I’m currently learning python,dart,cpp
 - 👯 I’m looking to collaborate on cpp,python,dart,js projects
-- 🤔 I’m looking for help with open source
+- 🤔 I’m looking to contribute to open source
 - 📫 How to reach me: https://www.linkedin.com/in/caleb-adewole-b6236a163/ or https://www.linkedin.com/in/caleb-adewole-b6236a163/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love singing,coding,playing guitar and also reading.
