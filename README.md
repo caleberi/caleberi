@@ -14,6 +14,7 @@ Skills: Cpp,JavaScript,Nodejs,Python,Dart.
 
 ![banner](https://github.com/caleberi/caleberi/blob/main/%F0%9F%98%9C_JS_%2C_CPP%2C_PYthon%2CDart%2C....__%F0%9F%9A%80.png)
 
+
 - 📝 [Resume](https://drive.google.com/file/d/1vT8nj-DVIEPLLuXyZX9p6PX3USMrklpB/view?usp=sharing)
 - 🔭 I’m currently working on extensive node and javascript project
 - 🌱 I’m currently learning python,dart,cpp
@@ -22,6 +23,8 @@ Skills: Cpp,JavaScript,Nodejs,Python,Dart.
 - 📫 How to reach me: https://www.linkedin.com/in/caleb-adewole-b6236a163/ or https://www.linkedin.com/in/caleb-adewole-b6236a163/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love singing,coding,playing guitar and also reading.
+
+![gif](https://media.giphy.com/media/MgmpuYdYhWn4RZ9F1R/giphy.gif)
 
 **Languages and Tools:**  
 ---
