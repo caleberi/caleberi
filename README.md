@@ -1,16 +1,23 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>, I am Adewole Caleb Erioluwa!
+##### Software Engineer |Microsoft Student Learn Ambassador| Student
+---
 ![Twitter URL](https://img.shields.io/twitter/url?label=twitter&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FHebronace143)
 ![LinkedIn URL](https://img.shields.io/twitter/url?label=linkedin&logo=Linkedin&style=social&url=https%3A%2F%2Ftwitter.com%2FHebronace143)
 ![Profile views](https://gpvc.arturio.dev/caleberi)
 <br/>
 <br/>
-A Self-taught software engineer from Nigeria specialized in Node backend related projects  and my spare time , playing guitar and singing.<br/>
-My passion for software goes beyond building system but understanding how they work , improving performance , testing for defect/bugs  amongst other. <br/>
+A Self-taught software engineer from Nigeria specialized in Node backend related projects and my spare time , playing guitar and singing.My passion for software goes beyond building system but understanding how they work , improving performance , testing for defect/bugs amongst other.
 I am currently looking forward to contributing to open source project, and also learning a lot through open source.
+Skills: Cpp,JavaScript,Nodejs,Python,Dart.
   
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [caleb adewole](https://www.linkedin.com/in/caleb-adewole-b6236a163/);
 - 📝 [Resume](https://drive.google.com/file/d/1vT8nj-DVIEPLLuXyZX9p6PX3USMrklpB/view?usp=sharing)
+- 🔭 I’m currently working on extensive node and javascript project
+- 🌱 I’m currently learning python,dart,cpp
+- 👯 I’m looking to collaborate on cpp,python,dart,js projects
+- 🤔 I’m looking for help with open source
+- 📫 How to reach me: https://www.linkedin.com/in/caleb-adewole-b6236a163/ or https://www.linkedin.com/in/caleb-adewole-b6236a163/
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love singing,coding,playing guitar and also reading.
 
 **Languages and Tools:**  
 ---
@@ -32,19 +39,16 @@ I am currently looking forward to contributing to open source project, and also 
 
 **My GitHub Stats** 
 ---
-![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=caleberi&theme=graywhite&show_icons=true)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=caleberi)
+
+![GitHub metrics](https://metrics.lecoq.io/caleberi)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=caleberi)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/caleberi) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com/@Hebronace134) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/caleb-adewole-b6236a163//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Hebronace143)
 
 
 
 
-
-- 🌱 I’m currently learning  flutter , react
-- 👯 I’m looking to collaborate on  cpp,python,dart,javascript projects .
-- 💬 Ask me about ...
-- 📫 How to reach me: 
-   - caleberioluwa@gmail.com
-  - https://www.linkedin.com/in/caleb-adewole-b6236a163/
-
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact:  I love singing,coding,playing guitar and also reading.
 
