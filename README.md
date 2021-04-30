@@ -32,6 +32,8 @@ I am currently looking forward to contributing to open source project, and also 
 **My GitHub Stats** 
 ---
 ![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=caleberi&theme=graywhite&show_icons=true)
+![Profile views](https://gpvc.arturio.dev/[caleberi])
+
 
 
 
