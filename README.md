@@ -9,6 +9,7 @@
 <br/>
 A Self-taught software engineer from Nigeria specialized in Node backend related projects and my spare time , playing guitar and singing.My passion for software goes beyond building system but understanding how they work , improving performance , testing for defect/bugs amongst other.
 I am currently looking forward to contributing to open source project, and also learning a lot through open source.
+<br/>
 Skills: Cpp,JavaScript,Nodejs,Python,Dart.
 
 ![banner](https://github.com/caleberi/caleberi/blob/main/%F0%9F%98%9C_JS_%2C_CPP%2C_PYthon%2CDart%2C....__%F0%9F%9A%80.png)
