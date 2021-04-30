@@ -1,6 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>, I am Adewole Caleb Erioluwa!
 ![Twitter URL](https://img.shields.io/twitter/url?label=twitter&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FHebronace143)
 ![LinkedIn URL](https://img.shields.io/twitter/url?label=linkedin&logo=Linkedin&style=social&url=https%3A%2F%2Ftwitter.com%2FHebronace143)
+![Profile views](https://gpvc.arturio.dev/caleberi)
 <br/>
 <br/>
 A Self-taught software engineer from Nigeria specialized in Node backend related projects  and my spare time , playing guitar and singing.<br/>
@@ -32,7 +33,7 @@ I am currently looking forward to contributing to open source project, and also 
 **My GitHub Stats** 
 ---
 ![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=caleberi&theme=graywhite&show_icons=true)
-![Profile views](https://gpvc.arturio.dev/caleberi)
+
 
 
 
