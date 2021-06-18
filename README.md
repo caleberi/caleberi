@@ -49,9 +49,6 @@ Skills: Cpp,JavaScript,Nodejs,Python,Dart.
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=caleberi)
 
-![Metrics](https://metrics.lecoq.io/caleberi?template=classic&gists=1&tweets=1&languages=1&lines=1&projects=1&stars=1&activity=1&followup=1&introduction=1&languages.limit=8&languages.colors=github&languages.threshold=0%25introduction.title=true&stars.limit=4&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&config.timezone=Africa%2FLagos
-)
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=caleberi)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/caleberi) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com/@Hebronace134) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/caleb-adewole-b6236a163//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Hebronace143)
