@@ -1,30 +1,16 @@
 ![header](https://github.com/caleberi/caleberi/blob/main/header.png)
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>, I am Adewole Caleb Erioluwa!
-##### Software Engineer |Microsoft Student Learn Ambassador| Student
 ---
 ![Twitter URL](https://img.shields.io/twitter/url?label=twitter&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FHebronace143)
 ![LinkedIn URL](https://img.shields.io/twitter/url?label=linkedin&logo=Linkedin&style=social&url=https%3A%2F%2Ftwitter.com%2FHebronace143)
 ![Profile views](https://gpvc.arturio.dev/caleberi)
 <br/>
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 <br/>
-A Self-taught software engineer from Nigeria specialized in Node backend related projects and my spare time , playing guitar and singing.My passion for software goes beyond building system but understanding how they work , improving performance , testing for defect/bugs amongst other.
-I am currently looking forward to contributing to open source project, and also learning a lot through open source.
+Glad you could check out my profile.
 <br/>
-Skills: Cpp,JavaScript,Nodejs,Python,Dart.
-
-![banner](https://github.com/caleberi/caleberi/blob/main/%F0%9F%98%9C_JS_%2C_CPP%2C_PYthon%2CDart%2C....__%F0%9F%9A%80.png)
-
-
-- 📝 [Resume](https://drive.google.com/file/d/1vT8nj-DVIEPLLuXyZX9p6PX3USMrklpB/view?usp=sharing)
-- 🔭 I’m currently working on extensive node and javascript project
-- 🌱 I’m currently learning python,dart,cpp
-- 👯 I’m looking to collaborate on cpp,python,dart,js projects
-- 🤔 I’m looking to contribute to open source
-- 📫 How to reach me: https://www.linkedin.com/in/caleb-adewole-b6236a163/
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I love singing,coding,playing guitar and also reading.
-
-![gif](https://media.giphy.com/media/MgmpuYdYhWn4RZ9F1R/giphy.gif)
+I'm Caleb , a computer engineering student majorly focused on building backend systems for web using JavaScript , Python , C/C++ , TypeScript , Java .
+I'm interested in developing scalable and fast applications while still applying and implementing more efficient algorithms . Having worked for few Fin-tech companies , I have created solutions that have helped in increasing their productivity ranging from providing tools for understanding consumer data and to also improve customer's experience on respective platform .
+<br/>
 
 **Languages and Tools:**  
 ---
@@ -42,14 +28,6 @@ Skills: Cpp,JavaScript,Nodejs,Python,Dart.
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="50"/></code>
 <code><img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="40" height="50"/></code>
-
-
-**My GitHub Stats** 
----
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=caleberi)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=caleberi)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/caleberi) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://hashnode.com/@Hebronace134) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/caleb-adewole-b6236a163//) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Hebronace143)
 
