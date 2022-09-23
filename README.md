@@ -31,6 +31,8 @@ I'm interested in developing scalable and fast applications while still applying
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='dev' height='40'>](https://www.linkedin.com/in/adewole-caleb/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/soundboax)
 
+😱 Resume : ![link](https://caleberi.github.io/digital-resume/)
+
 
 
 
