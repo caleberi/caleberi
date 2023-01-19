@@ -2,10 +2,10 @@
 -----------------------
 ![Profile views](https://gpvc.arturio.dev/caleberi)
 
-Glad you could check out my profile.
-<br/>
-I'm Caleb Adewole , a computer engineering student majorly focused on building backend systems for web using JavaScript , Python , C/C++ , TypeScript , Java .
-I'm interested in developing scalable and fast applications while still applying and implementing more efficient algorithms . Having worked for few Fin-tech companies , I have created solutions that have helped in increasing their productivity ranging from providing tools for understanding consumer data and to also improve customer's experience on respective platform .
+Hi 👋,
+
+Glad you could check out my profile. 
+   As an engineer with a passion for building highly scalable and available applications, I have a strong skill set in multiple programming languages including Javascript, Python, C/C++, Golang, Typescript, and Java. My expertise in Javascript has allowed me to build applications for fintech companies and improve productivity through the maintenance of legacy code. In my free time, you can find me in a secluded, music-filled workspace where I enjoy playing guitar, teaching others about technology, and writing articles. I am always looking for new opportunities to apply my skills and contribute to a team's success.
 <br/>
 
 **Languages and Tools:**  
