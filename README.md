@@ -1,10 +1,7 @@
 ![header](https://github.com/caleberi/caleberi/blob/main/header.png)
 -----------------------
 
-
-Hi 👋,
-
-Glad you could check out my profile. 
+Glad, you could check out my profile. 
    As an engineer with a passion for building highly scalable and available applications, I have a strong skill set in multiple programming languages including Javascript, Python, C/C++, Golang, Typescript, and Java. My expertise in Javascript has allowed me to build applications for fintech companies and improve productivity through the maintenance of legacy code. In my free time, you can find me in a secluded, music-filled workspace where I enjoy playing guitar, teaching others about technology, and writing articles. I am always looking for new opportunities to apply my skills and contribute to a team's success.
 <br/>
 
